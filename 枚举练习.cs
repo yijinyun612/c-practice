@@ -15,6 +15,11 @@ using System.Console;
 using System.Convert;
 static void Main(string[] arge)
 {
+    WriteLine("please give me seven foods name.")
+    string userfoods = ReadLine();
+    string myfoods = "";
+    for(int index = myfoods.Length-1;index >=0;index--)
+    
 {
 
 
